@@ -1,0 +1,12 @@
+{
+  "repo": {
+    "icon": {
+      "en-US": {
+        "sha256": "22b02db42ea11bb3e37fd75f0288c24599249500b830f5b6a1f195ea8ecc504d",
+        "size": 233881
+      }
+    },
+    "address": "https://muklash-dev.github.io/fdroid-repo/repo",
+    "timestamp": 1794445106000
+  }
+}

@@ -1,0 +1,25 @@
+AuthorName: MD. Muklash Mia
+Categories:
+- Multimedia
+License: MIT
+Name: TM Sounds
+SourceCode: https://github.com/Muklash-Dev/TM-Sounds
+IssueTracker: https://github.com/Muklash-Dev/TM-Sounds/issues
+WebSite: https://github.com/Muklash-Dev/TM-Sounds
+Summary: No-root sound enhancer with EQ curve, volume boost and per-device memory
+Description: |-
+  TM Sounds is a no-root sound enhancer for Android with a premium dark interface, built only on Android's own public audio APIs.
+
+  Features:
+  * Profiles — Flat, Music, Movie, Voice, Bass and Custom, each remembering your own changes
+  * Equalizer, two ways — an interactive frequency-response curve and classic sliders, plus a Band Tuner with 0.1 dB fine steps
+  * Bass, Mid and Treble enhancers, plus a Surround (Virtualizer) control
+  * Volume Boost — real output gain via LoudnessEnhancer (0 to +12 dB)
+  * Volume Leveler — a gentle compressor + limiter via DynamicsProcessing (Android 9+)
+  * Per-device audio memory — remembers your profile and boost for each output: wired headphones, every Bluetooth device, USB and the speaker
+  * Lightweight foreground service, optional auto-start after reboot
+  * No root, no ads, no tracking, no internet permission
+
+  Honest limits: the equalizer can only control as many bands as your device's audio hardware offers (commonly 5). A few manufacturers restrict global audio effects. Call echo cannot be fixed by any sound app.
+CurrentVersion: 0.1
+CurrentVersionCode: 1

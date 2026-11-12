@@ -1,0 +1,58 @@
+{
+  "repo": {
+    "icon": {
+      "en-US": {
+        "sha256": "22b02db42ea11bb3e37fd75f0288c24599249500b830f5b6a1f195ea8ecc504d",
+        "size": 233881
+      }
+    },
+    "address": "https://muklash-dev.github.io/fdroid-repo/repo",
+    "timestamp": 1794445106000,
+    "categories": {
+      "fdroid_repo": null,
+      "Multimedia": {
+        "name": {
+          "en-US": "Multimedia"
+        }
+      }
+    }
+  },
+  "packages": {
+    "com.muklashdev.tmplayer": {
+      "metadata": {
+        "categories": [
+          "Multimedia"
+        ],
+        "issueTracker": "https://github.com/Muklash-Dev/TM-Player/issues",
+        "license": "MIT",
+        "sourceCode": "https://github.com/Muklash-Dev/TM-Player",
+        "webSite": "https://github.com/Muklash-Dev/TM-Player",
+        "authorName": "MD. Muklash Mia",
+        "summary": {
+          "en-US": "Free, ad-free video & music player with USB/SD support and a private vault"
+        },
+        "description": {
+          "en-US": "TM Player (Turbo Media Player) is a free, open-source and completely ad-free video and music player for Android, developed by MD. Muklash Mia.\n\nVideos and music are scanned across ALL storage volumes — internal storage, SD card and USB pendrives (OTG).\n\nFeatures:\n* PLAYit-style home: list or grid view, month grouping, sort by date, name, size or duration, watch history with one-tap clear\n* Folders, playlists and search across every volume\n* Gesture player: brightness / volume / seek swipes, double-tap skip (5–30 s), long-press speed boost, playback speeds 0.25x–4.0x\n* Screenshot button, HDR Enhance colour boost, picture-in-picture, background play, sleep timer\n* Music player with albums, artists, folders, playlists and a mini player\n* Private Vault: PIN + fingerprint lock for your videos, hidden from the gallery\n* Recycle Bin, Media Manage storage overview and a junk Clean page\n* Video to MP3/audio converter\n* Themes: dark/light, six accent colours and your own photo theme\n* No ads, no tracking, no accounts — your files never leave your phone\n\nTM Player is an original work built on Android's public media APIs. Playback uses your device's built-in codecs."
+        }
+      }
+    },
+    "com.muklashdev.tmsounds": {
+      "metadata": {
+        "categories": [
+          "Multimedia"
+        ],
+        "issueTracker": "https://github.com/Muklash-Dev/TM-Sounds/issues",
+        "license": "MIT",
+        "sourceCode": "https://github.com/Muklash-Dev/TM-Sounds",
+        "webSite": "https://github.com/Muklash-Dev/TM-Sounds",
+        "authorName": "MD. Muklash Mia",
+        "summary": {
+          "en-US": "No-root sound enhancer with EQ curve, volume boost and per-device memory"
+        },
+        "description": {
+          "en-US": "TM Sounds is a no-root sound enhancer for Android with a premium dark interface, built only on Android's own public audio APIs.\n\nFeatures:\n* Profiles — Flat, Music, Movie, Voice, Bass and Custom, each remembering your own changes\n* Equalizer, two ways — an interactive frequency-response curve and classic sliders, plus a Band Tuner with 0.1 dB fine steps\n* Bass, Mid and Treble enhancers, plus a Surround (Virtualizer) control\n* Volume Boost — real output gain via LoudnessEnhancer (0 to +12 dB)\n* Volume Leveler — a gentle compressor + limiter via DynamicsProcessing (Android 9+)\n* Per-device audio memory — remembers your profile and boost for each output: wired headphones, every Bluetooth device, USB and the speaker\n* Lightweight foreground service, optional auto-start after reboot\n* No root, no ads, no tracking, no internet permission\n\nHonest limits: the equalizer can only control as many bands as your device's audio hardware offers (commonly 5). A few manufacturers restrict global audio effects. Call echo cannot be fixed by any sound app."
+        }
+      }
+    }
+  }
+}
